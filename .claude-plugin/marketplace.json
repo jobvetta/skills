@@ -1,0 +1,14 @@
+{
+  "name": "jobvetta",
+  "description": "Official Jobvetta Jobs & Hiring Signals plugins for Claude Code",
+  "owner": {
+    "name": "Jobvetta"
+  },
+  "plugins": [
+    {
+      "name": "jobvetta",
+      "source": "./",
+      "description": "Search 6.5M+ live verified employer career-site job postings across 242 countries, inspect company hiring velocity signals, and compute market salary benchmarks."
+    }
+  ]
+}

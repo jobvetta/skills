@@ -1,0 +1,12 @@
+{
+  "name": "jobvetta",
+  "version": "1.0.0",
+  "description": "Official Jobvetta extension for Gemini CLI: search 6.5M+ verified employer career-site job postings, company hiring signals, and salary benchmarks.",
+  "mcpServers": {
+    "jobvetta": {
+      "command": "npx",
+      "args": ["-y", "github:jobvetta/jobvetta-mcp"],
+      "description": "Jobvetta MCP server (set JOBVETTA_API_KEY; free 25 calls/day at https://www.jobvetta.com/api)"
+    }
+  }
+}

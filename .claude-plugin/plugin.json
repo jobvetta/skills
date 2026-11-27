@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "jobvetta",
+  "displayName": "Jobvetta Jobs & Hiring Signals",
+  "version": "1.0.0",
+  "description": "Search 6.5M+ live verified employer career-site job postings across 242 countries, inspect company hiring velocity signals, and compute P25/median/P75 market salary benchmarks.",
+  "author": {
+    "name": "Jobvetta"
+  },
+  "homepage": "https://www.jobvetta.com/api",
+  "license": "MIT",
+  "keywords": ["jobvetta", "jobs", "hiring-signals", "salary", "claude-code", "mcp"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

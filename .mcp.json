@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "jobvetta": {
+      "command": "npx",
+      "args": ["-y", "github:jobvetta/jobvetta-mcp"],
+      "env": {
+        "JOBVETTA_API_KEY": "${JOBVETTA_API_KEY}"
+      }
+    }
+  }
+}
